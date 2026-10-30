@@ -4,7 +4,7 @@
 
 **Student:** Ahsan Mahmood  
 **Program:** BS Computer Science (BSCS)  
-**Section:** 5B  
+**Section:** 5A  
 **Course:** Operating Systems Lab  
 **Assignment:** 01
 
